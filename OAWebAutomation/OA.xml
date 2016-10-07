@@ -1,0 +1,9 @@
+<suite name="Suite S1" >
+    <test name="T1">  
+        <classes >
+        	<class name="com.evergrande.testcases.index.CheckMenu" />
+<!--             <class name="com.evergrande.actions.Action3" />
+            <class name="com.evergrande.actions.Action4" /> -->             
+        </classes>
+    </test>
+</suite>

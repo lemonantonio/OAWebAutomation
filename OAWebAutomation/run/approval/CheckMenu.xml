@@ -1,0 +1,11 @@
+<suite name="Suite S1" >
+    <test name="T1">  
+        <classes >
+        	<class name="com.evergrande.testcases.approval.index.CheckMenu" />
+        </classes>
+    </test>
+    <listeners>
+	<listener class-name="org.uncommons.reportng.HTMLReporter" />
+	<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+  </listeners>
+</suite>
